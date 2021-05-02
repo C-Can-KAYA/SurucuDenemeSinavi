@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">SürücüDenemeSinavi</string>
+    <string name="sinav1"> 13 nisan 2013 a2 Ehliyet Sınav Soruları  </string>
+    <string name="sinav2"> 29 Haziran 2013 Ehliyet Sınav Soruları  </string>
+    <string name="sinav3"> 24 Ağustos 2013 H - B engelli sınıfı Ehliyet Sınav Soruları  </string>
+    <string name="sinav4"> 2 kasım 2013 meb ehliyet sınav soruları  </string>
+    <string name="sinav5"> 8 Aralık 2013 Ehliyet Sınav Soruları  </string>
+    <string name="sinav6"> 12 Ocak 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav7"> 8 Şubat 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav8"> 8 Mart 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav9"> 14 Haziran 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav10"> 12 Temmuz 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav11"> 9 Ağustos 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav12"> 6 eylül 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav13"> 18 Ekim 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav14"> 13 Aralık 2014 Ehliyet Sınav Soruları  </string>
+    <string name="sinav15"> 10 Ocak 2015 Ehliyet Sınav Soruları  </string>
+    <string name="sinav16"> 22 mart 2015 ehliyet sınav soruları  </string>
+    <string name="sinav17"> 27 Haziran 2015 meb ehliyet sınav soruları  </string>
+    <string name="sinav18"> 29 Ağustos 2015 ehliyet sınav soruları  </string>
+    <string name="sinav19"> 10 Ekim 2015 Ehliyet sınav soruları  </string>
+    <string name="sinav20"> 12 Aralık 2015 ehliyet sınav soruları  </string>
+    <string name="sinav21">   13 Şubat 2016 Ehliyet sınav soruları </string>
+    <string name="sinav22"> 14 Mayıs 2016 ehliyet sınav Soruları  </string>
+    <string name="sinav23"> 27 Ağustos 2016 ehliyet sınav soruları  </string>
+    <string name="sinav24"> 8 Ekim 2016 ehliyet sınav soruları  </string>
+    <string name="sinav25"> 17 Aralık 2016 sınav soruları  </string>
+    <string name="sinav26"> 11 Şubat 2017 Ehliyet Sınav Soruları  </string>
+    <string name="sinav27"> 20 Mayıs 2017 Ehliyet Sınav Soruları  </string>
+    <string name="sinav28"> 29 temmuz 2017 ehliyet sınav soruları  </string>
+    <string name="sinav29"> 7 Ekim 2017 Ehliyet Sınav Soruları  </string>
+    <string name="sinav30"> 23 Aralık 2017 meb çıkmış sınav soruları  </string>
+    <string name="sinav31"> 10 Şubat 2018 ehliyet sınav soruları  </string>
+    <string name="sinav32"> 21 Nisan 2018 ehliyet sınav soruları  </string>
+    <string-array name="Sinavs">
+        <item>@string/sinav1</item>
+        <item>@string/sinav2</item>
+        <item>@string/sinav3</item>
+        <item>@string/sinav4</item>
+        <item>@string/sinav5</item>
+        <item>@string/sinav6</item>
+        <item>@string/sinav7</item>
+        <item>@string/sinav8</item>
+        <item>@string/sinav9</item>
+        <item>@string/sinav10</item>
+        <item>@string/sinav11</item>
+        <item>@string/sinav12</item>
+        <item>@string/sinav13</item>
+        <item>@string/sinav14</item>
+        <item>@string/sinav15</item>
+        <item>@string/sinav16</item>
+        <item>@string/sinav17</item>
+        <item>@string/sinav18</item>
+        <item>@string/sinav19</item>
+        <item>@string/sinav20</item>
+        <item>@string/sinav21</item>
+        <item>@string/sinav22</item>
+        <item>@string/sinav23</item>
+        <item>@string/sinav24</item>
+        <item>@string/sinav25</item>
+        <item>@string/sinav26</item>
+        <item>@string/sinav27</item>
+        <item>@string/sinav28</item>
+        <item>@string/sinav29</item>
+        <item>@string/sinav30</item>
+        <item>@string/sinav31</item>
+        <item>@string/sinav32</item>
+    </string-array>
+</resources>
